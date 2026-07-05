@@ -6,10 +6,17 @@ A professional Power BI dashboard project designed to analyze sales performance,
 
 This project presents an end-to-end analytics solution using Microsoft Power BI. It focuses on transforming transactional data into meaningful business insights that can support decision-making for sales, marketing, and operations teams.
 
+## Dashboard Overview Video
+
+A short walkthrough video is included to give you a visual preview of the dashboard and how it looks in action. The video highlights the overall layout, key visuals, and the reporting experience provided by the Power BI dashboard.
+
+- Watch the walkthrough: [Recording 2026-06-19 131620.mp4](Recording%202026-06-19%20131620.mp4)
+
 ## What This Project Includes
 
 - A Power BI report file for interactive analysis
 - CSV datasets containing order and customer-related information
+- A demo video showing the dashboard overview
 - Visual assets used in the dashboard presentation
 - A structured repository layout for easy sharing and collaboration
 
