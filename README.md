@@ -10,7 +10,7 @@ This project presents an end-to-end analytics solution using Microsoft Power BI.
 
 A short walkthrough video is included to give you a visual preview of the dashboard and how it looks in action. The video highlights the overall layout, key visuals, and the reporting experience provided by the Power BI dashboard.
 
-- Watch the walkthrough: [Recording 2026-06-19 131620.mp4](Recording%202026-06-19%20131620.mp4)
+- Watch the walkthrough: [dashboard-overview.mp4](dashboard-overview.mp4)
 
 ## What This Project Includes
 
